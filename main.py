@@ -14,7 +14,7 @@ from telebot import asyncio_filters
 from typing import Dict, Tuple, Union
 
 # --- Configuration (UPDATE THESE) ---
-BOT_TOKEN = '7902731177:AAEi7c32vYJSwkIswN2c-zc5pLeseHOZlXk' 
+BOT_TOKEN = '7902731177:AAGnIldoCmvBLz1IH_cCXlY3adWNDN4cNiU' 
 OWNER_ID = 7900401296 
 HOSTING_DIR = 'hosted_files'
 APPROVED_USERS_FILE = 'approved_users.json'
