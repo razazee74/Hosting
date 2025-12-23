@@ -1,4 +1,4 @@
 requests
 telebot
 aiohttp
-gunicore
+gunicorn
