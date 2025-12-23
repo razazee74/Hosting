@@ -12,4 +12,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Webhook के लिए gunicorn का उपयोग करें (अगर main.py में 'app' ऑब्जेक्ट है)
-CMD [ "gunicorn", "main:app", "-b", "0.0.0.0:8000" ]
+CMD [ "main:app", "-b", "0.0.0.0:8000" ]
